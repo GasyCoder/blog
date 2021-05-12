@@ -1,3 +1,6 @@
+# About 
+This is a beautiful Blog with Nuxt.js. Nuxt.js is a powerful and simple open-source framework for building websites on the Jamstack using Vue, and we've unlocked that power with AgilityCMS in this starter template.
+This project is can be very helpful for beginner developers who are learning NuxtJs to improve their skills in web development.
 # Agility CMS & Nuxt.js Starter
 
 This is sample Nuxt.js starter site that uses Agility CMS and aims to be a foundation for building websites using Nuxt.js and Agility CMS.
